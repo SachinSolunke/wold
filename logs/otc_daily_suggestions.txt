@@ -1,0 +1,3 @@
+20-05-2025 (For 21-05-2025) | Market: SRIDEVI | Formula: Fixed Offset Ank (X=2) {'offset': 2} | Rate: 60% (9/15) | Suggested Anks: 0 2
+22-05-2025 (For 23-05-2025) | Market: SRIDEVI | Formula: Fixed Offset Ank (X=2) {'offset': 2} | Rate: 56% (9/16) | Suggested Anks: 0 1
+22-05-2025 (For 23-05-2025) | Market: SRIDEVI | Formula: Open & Close Anks {} | Rate: 53% (9/17) | Suggested Anks: 3 9
