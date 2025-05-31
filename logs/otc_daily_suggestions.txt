@@ -1,3 +1,17 @@
 20-05-2025 (For 21-05-2025) | Market: SRIDEVI | Formula: Fixed Offset Ank (X=2) {'offset': 2} | Rate: 60% (9/15) | Suggested Anks: 0 2
 22-05-2025 (For 23-05-2025) | Market: SRIDEVI | Formula: Fixed Offset Ank (X=2) {'offset': 2} | Rate: 56% (9/16) | Suggested Anks: 0 1
 22-05-2025 (For 23-05-2025) | Market: SRIDEVI | Formula: Open & Close Anks {} | Rate: 53% (9/17) | Suggested Anks: 3 9
+22-05-2025 (For 23-05-2025) | Market: SRIDEVI-NIGHT | Formula: Fixed Offset Ank (X=2) {'offset': 2} | Rate: 56% (9/16) | Suggested Anks: 2 9
+22-05-2025 (For 23-05-2025) | Market: KALYAN | Formula: Fixed Offset Ank (X=9) {'offset': 9} | Rate: 57% (8/14) | Suggested Anks: 6
+22-05-2025 (For 23-05-2025) | Market: SRIDEVI | Formula: Open & Close Anks {} | Rate: 53% (9/17) | Suggested Anks: 3 9
+23-05-2025 (For 24-05-2025) | Market: SRIDEVI | Formula: Open & Close Anks {} | Rate: 50% (9/18) | Suggested Anks: 7 8
+24-05-2025 (For 25-05-2025) | Market: SRIDEVI | Formula: Open & Close Anks {} | Rate: 53% (10/19) | Suggested Anks: 3 7
+24-05-2025 (For 25-05-2025) | Market: SRIDEVI | Formula: Open & Close Anks {} | Rate: 53% (10/19) | Suggested Anks: 3 7
+25-05-2025 (For 26-05-2025) | Market: SRIDEVI | Formula: Open & Close Anks {} | Rate: 53% (10/19) | Suggested Anks: 3 7
+25-05-2025 (For 26-05-2025) | Market: SRIDEVI | Formula: Open & Close Anks {} | Rate: 50% (10/20) | Suggested Anks: 9
+26-05-2025 (For 27-05-2025) | Market: SRIDEVI | Formula: Open & Close Anks {} | Rate: 52% (11/21) | Suggested Anks: 7 9
+28-05-2025 (For 29-05-2025) | Market: SRIDEVI | Formula: Open & Close Anks {} | Rate: 50% (11/22) | Suggested Anks: 4 6
+28-05-2025 (For 29-05-2025) | Market: SRIDEVI | Formula: Open & Close Anks {} | Rate: 50% (11/22) | Suggested Anks: 4 6
+30-05-2025 (For 31-05-2025) | Market: SRIDEVI | Formula: Open & Close Anks {} | Rate: 46% (11/24) | Suggested Anks: 0
+30-05-2025 (For 31-05-2025) | Market: SRIDEVI | Formula: Open & Close Anks {} | Rate: 46% (11/24) | Suggested Anks: 0
+31-05-2025 (For 01-06-2025) | Market: SRIDEVI | Formula: Open & Close Anks {} | Rate: 48% (12/25) | Suggested Anks: 0 8
