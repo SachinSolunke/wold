@@ -15,3 +15,13 @@
 30-05-2025 (For 31-05-2025) | Market: SRIDEVI | Formula: Open & Close Anks {} | Rate: 46% (11/24) | Suggested Anks: 0
 30-05-2025 (For 31-05-2025) | Market: SRIDEVI | Formula: Open & Close Anks {} | Rate: 46% (11/24) | Suggested Anks: 0
 31-05-2025 (For 01-06-2025) | Market: SRIDEVI | Formula: Open & Close Anks {} | Rate: 48% (12/25) | Suggested Anks: 0 8
+01-06-2025 (For 02-06-2025) | Market: SRIDEVI | Formula: Open & Close Anks {} | Rate: 50% (13/26) | Suggested Anks: 0 8
+01-06-2025 (For 02-06-2025) | Market: SRIDEVI | Formula: Open & Close Anks {} | Rate: 52% (14/27) | Suggested Anks: 0 7
+02-06-2025 (For 03-06-2025) | Market: SRIDEVI | Formula: Open & Close Anks {} | Rate: 54% (15/28) | Suggested Anks: 3 7
+03-06-2025 (For 04-06-2025) | Market: SRIDEVI | Formula: Open & Close Anks {} | Rate: 54% (15/28) | Suggested Anks: 3 7
+03-06-2025 (For 04-06-2025) | Market: SRIDEVI | Formula: Open & Close Anks {} | Rate: 54% (15/28) | Suggested Anks: 3 7
+04-06-2025 (For 05-06-2025) | Market: SRIDEVI | Formula: Open & Close Anks {} | Rate: 55% (16/29) | Suggested Anks: 7 8
+04-06-2025 (For 05-06-2025) | Market: SRIDEVI | Formula: Open & Close Anks {} | Rate: 55% (16/29) | Suggested Anks: 7 8
+04-06-2025 (For 05-06-2025) | Market: SRIDEVI | Formula: Open & Close Anks {} | Rate: 53% (16/30) | Suggested Anks: 3 6
+05-06-2025 (For 06-06-2025) | Market: SRIDEVI | Formula: Open & Close Anks {} | Rate: 52% (16/31) | Suggested Anks: 1 7
+05-06-2025 (For 06-06-2025) | Market: SRIDEVI | Formula: Open & Close Anks {} | Rate: 52% (16/31) | Suggested Anks: 1 7
